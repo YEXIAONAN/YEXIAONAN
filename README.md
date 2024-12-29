@@ -1,6 +1,5 @@
-# Hi there, I'm YEXIAONAN! 👋
+# Hi there, I'm NanBuLi! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [mention your areas of interest, e.g., web development, machine learning, etc.]. 
 
 ## 🚀 About Me
 - 🌱 I’m currently learning [mention what you are currently learning, e.g., React, Node.js, etc.]
@@ -18,23 +17,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-![YEXIAONAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEXIAONAN&show_icons=true&theme=radical)
-
-## 🗂️ Highlight Projects
-### [Project 1 Name](https://github.com/YEXIAONAN/project1)
-Brief description of the project. What technologies were used? What problem does it solve?
-
-### [Project 2 Name](https://github.com/YEXIAONAN/project2)
-Brief description of the project. What technologies were used? What problem does it solve?
-
-## ✍️ Blog Posts
-- [Blog Post 1 Title](https://yourblog.com/post1)
-- [Blog Post 2 Title](https://yourblog.com/post2)
-
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
