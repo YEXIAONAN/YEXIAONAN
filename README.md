@@ -1,10 +1,11 @@
-# Hi there, I'm NanBuLi! 👋
+# Hi there, I'm Waiting! 👋
 
 
 ## 🚀 About Me
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
-- 💬 Ask me about 
+- 💬 Ask me about
+-  ♂  A Chinese Boy
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
