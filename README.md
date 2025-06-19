@@ -1,16 +1,22 @@
-# Hi there, I'm Waiting! 👋
+## 👋 你好，我是小楠
+
+一名专注于计算机网络与软件开发的个人开发者。热爱编程，享受解决技术难题的过程，也乐于与他人交流思想与经验。
+
+### 🔧 技术方向
+
+- 编程语言：Java / Python / Go
+- 数据处理与分析：MySQL / Hadoop / Hive / Spark
+- 本地部署与模型推理：Ollama / 多模态 AI
+- 开发工具：JetBrains 全家桶 / Visual Studio / VS Code
+- 操作系统环境：Windows / MacOS
+
+### 🌱 我在探索
+
+- AI 人工智能
+- 本地化模型部署与离线智能应用
+- 高效、结构化的数据可视化方案
 
 
-## 🚀 About Me
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about
--  ♂  A Chinese Boy
+---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+📌 *保持技术热情，持续探索世界的更多可能。*
