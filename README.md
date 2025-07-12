@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,md,go,idea" />
+    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,md,go,idea,linux,maven,py,mysql,nginx,phpstorm,pycharm" />
   </a>
 </p>
