@@ -10,13 +10,10 @@
 - 开发工具：JetBrains 全家桶 / Visual Studio / VS Code
 - 操作系统环境：Windows / MacOS
 
-### 🌱 我在探索
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=计算，为了无法计算的时间。&author=叶小楠"  />
 
-- AI 人工智能
-- 本地化模型部署与离线智能应用
-- 高效、结构化的数据可视化方案
-
-
----
-
-📌 *保持技术热情，持续探索世界的更多可能。*
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,md,go,idea" />
+  </a>
+</p>
