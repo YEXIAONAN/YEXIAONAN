@@ -15,7 +15,7 @@
         </Border>
 
         <local:MyButton Width="260" Height="40"  ToolTip="启动当前版本并加入云清世界"
-                        EventType="启动游戏" EventData="\current|play.yexiaonan.xyz">
+                        EventType="启动游戏" EventData="\current|110.40.44.132:64397">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                 <TextBlock Text="🎮 立即进入服务器" />
             </StackPanel>
@@ -51,11 +51,11 @@
                    Text="加入我们的社区群组，关注官方平台获取最新玩法与动态，也可联系管理团队解决问题。" />
 
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10">
-            <local:MyButton Width="130" Height="30" EventType="打开链接" EventData="https://qm.qq.com/xxxx">
+            <local:MyButton Width="130" Height="30" EventType="打开链接" EventData="https://qm.qq.com/q/JKca6uz4sw">
                 <TextBlock Text="💬 加入交流群" />
             </local:MyButton>
 
-            <local:MyButton Width="130" Height="30" Margin="10,0,0,0" EventType="打开链接" EventData="https://yexiaonan.xyz">
+            <local:MyButton Width="130" Height="30" Margin="10,0,0,0" EventType="打开链接" EventData="https://blog.yexiaonan.xyz">
                 <TextBlock Text="🌐 访问官网" />
             </local:MyButton>
         </StackPanel>
