@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <local:MyCard Title="✨ 云清 · 启动器主页" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
     <StackPanel Margin="25,40,23,15">
         <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
