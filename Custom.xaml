@@ -15,7 +15,7 @@
         </Border>
 
         <local:MyButton Width="260" Height="40"  ToolTip="启动当前版本并加入云清世界"
-                        EventType="启动游戏" EventData="\current|110.40.44.132:64397">
+                        EventType="启动游戏" EventData="\current|play.yexiaonan.xyz:64397">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                 <TextBlock Text="🎮 立即进入服务器" />
             </StackPanel>
@@ -28,7 +28,7 @@
 
 <local:MyCard Title="📢 服务器公告与更新日志" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
     <StackPanel Margin="25,30,23,15">
-        <local:MyHint Theme="Yellow" Text="🛠️ 服务器将于 7 月 13 日进行删档测试，请合理安排游戏时间。" />
+        <local:MyHint Theme="Yellow" Text="🛠️ w我们开服啦！" />
         <TextBlock TextWrapping="Wrap" Margin="0,10,0,4" FontSize="14">
             <Run Text="【更新内容】" FontWeight="Bold" />
             <LineBreak/>
