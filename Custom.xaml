@@ -64,6 +64,22 @@
     </StackPanel>
 </local:MyCard>
 
+<local:MyCard Title="💖 感谢赞助玩家" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+    <StackPanel Margin="25,30,23,15">
+        <TextBlock FontSize="13" Foreground="#444444" Margin="0,0,0,10" Text="以下为热心支持云清服务器的赞助者名单，感谢你们的慷慨与支持！" />
+        
+        <StackPanel Margin="0,0,0,10">
+            <TextBlock FontSize="14" FontWeight="Bold" Text="yexiaonan_77 - ￥7000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="xxbaby5201314 - ￥7000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="Hi_Tao - ￥1000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="xiang104 - ￥30" />
+
+        </StackPanel>
+
+        <TextBlock FontSize="12" Foreground="#999999" Text="* 赞助满30元即可上榜，名单每周自动更新。" />
+    </StackPanel>
+</local:MyCard>
+
 <local:MyCard Title="🧰 常见问题与建议" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
     <StackPanel Margin="25,30,23,15">
         <TextBlock FontSize="13" Foreground="#444444" TextWrapping="Wrap">
