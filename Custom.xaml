@@ -5,7 +5,7 @@
             <StackPanel>
                 <TextBlock FontSize="20" FontWeight="Bold" Text="欢迎使用云清启动器！" />
                 <TextBlock FontSize="14" Foreground="#666666" Text="致力于打造一个稳定、轻量、功能完善的 Minecraft 社区服务器平台" />
-                <TextBlock FontSize="13" Foreground="#999999" Text="当前版本：1.21.4  |  启动器版本：v1.1" />
+                <TextBlock FontSize="13" Foreground="#999999" Text="当前版本：1.21.4  |  启动器版本：v1.2" />
             </StackPanel>
         </StackPanel>
 
@@ -28,20 +28,20 @@
 
 <local:MyCard Title="📢 服务器公告与更新日志" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
     <StackPanel Margin="25,30,23,15">
-        <local:MyHint Theme="Yellow" Text="🛠️ w我们开服啦！" />
+        <local:MyHint Theme="Yellow" Text="🛠️ 将于2025年7月14日中午 11:30-13:00 对服务器玩法进行完善与修复，请注意游戏时间！" />
         <TextBlock TextWrapping="Wrap" Margin="0,10,0,4" FontSize="14">
             <Run Text="【更新内容】" FontWeight="Bold" />
             <LineBreak/>
-            开服啦~！
+            新增网页地图，菜单，优化每日签到。
             <!-- <LineBreak/>
             - 修复部分地形加载与区块渲染问题
             <LineBreak/>
             - 优化玩家背包存档同步机制
             <LineBreak/>
-            - 新增「每日签到」「拍卖行」「宠物系统」 -->
+            - 新增「网页地图 -->
         </TextBlock>
         <TextBlock TextWrapping="Wrap" FontSize="12" Foreground="#999999"
-                   Text="公告发布时间：2025年7月13日" />
+                   Text="公告发布时间：2025年7月14日" />
     </StackPanel>
 </local:MyCard>
 
