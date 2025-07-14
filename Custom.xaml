@@ -69,9 +69,10 @@
         <TextBlock FontSize="13" Foreground="#444444" Margin="0,0,0,10" Text="以下为热心支持云清服务器的赞助者名单，感谢你们的慷慨与支持！" />
         
         <StackPanel Margin="0,0,0,10">
-            <TextBlock FontSize="14" FontWeight="Bold" Text="yexiaonan_77 - ￥7000" />
-            <TextBlock FontSize="14" FontWeight="Bold" Text="xxbaby5201314 - ￥7000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="yexiaonan_77 - ￥17000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="xxbaby5201314 - ￥5000" />
             <TextBlock FontSize="14" FontWeight="Bold" Text="Hi_Tao - ￥1000" />
+            <TextBlock FontSize="14" FontWeight="Bold" Text="mmxdqi - ￥30" />
             <TextBlock FontSize="14" FontWeight="Bold" Text="xiang104 - ￥30" />
 
         </StackPanel>
