@@ -5,7 +5,7 @@
             <StackPanel>
                 <TextBlock FontSize="20" FontWeight="Bold" Text="欢迎使用云清启动器！" />
                 <TextBlock FontSize="14" Foreground="#666666" Text="致力于打造一个稳定、轻量、功能完善的 Minecraft 社区服务器平台" />
-                <TextBlock FontSize="13" Foreground="#999999" Text="当前版本：1.21.4  |  启动器版本：v1.2" />
+                <TextBlock FontSize="13" Foreground="#999999" Text="当前版本：1.21.4  |  启动器版本：v1.3" />
             </StackPanel>
         </StackPanel>
 
@@ -15,7 +15,7 @@
         </Border>
 
         <local:MyButton Width="260" Height="40"  ToolTip="启动当前版本并加入云清世界"
-                        EventType="启动游戏" EventData="\current|play.yexiaonan.xyz:64397">
+                        EventType="启动游戏" EventData="\current|play.yexiaonan.xyz:25565">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                 <TextBlock Text="🎮 立即进入服务器" />
             </StackPanel>
