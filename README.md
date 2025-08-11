@@ -1,19 +1,79 @@
-## 👋 你好，我是小楠
+## 👋 你好，我是 **叶小楠**
 
-一名专注于计算机网络与软件开发的个人开发者。热爱编程，享受解决技术难题的过程，也乐于与他人交流思想与经验。
+全栈开发 & 计算机网络工程师，专注于**分布式架构、数据处理、AI 本地部署**与**网络安全**。
+具备从底层网络到高层应用的全链路优化能力，擅长将复杂业务需求转化为高性能、可扩展的技术方案。
+热爱编程、追求极致性能，也乐于分享技术经验，与开发者同行共同成长。
 
-### 🔧 技术方向
+---
 
-- 编程语言：Java / Python / Go
-- 数据处理与分析：MySQL / Hadoop / Hive / Spark
-- 本地部署与模型推理：Ollama / 多模态 AI
-- 开发工具：JetBrains 全家桶 / Visual Studio / VS Code
-- 操作系统环境：Windows / MacOS
+### 🛠 技术栈
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=计算，为了无法计算的时间。&author=叶小楠"  />
+**💻 编程语言**
+
+* Java / Python / Go / C / JavaScript / Shell / SQL
+
+**📊 数据处理与分析**
+
+* MySQL / PostgreSQL / SQLite
+* Hadoop / Hive / Spark
+* Pandas / NumPy / 数据可视化
+
+**🤖 人工智能 & 推理部署**
+
+* Ollama / 多模态 AI 推理 / 模型微调 (LoRA, QLoRA, Fine-tuning)
+* GPU 本地加速部署 (CUDA, cuDNN, PyTorch)
+
+**🖥 后端开发 & 架构**
+
+* Spring Boot / Spring Cloud / MyBatis / Gin
+* RESTful API / GraphQL / gRPC
+* 微服务架构 / API 网关
+
+**🌐 网络与系统**
+
+* TCP/IP / HTTP(S) / DNS / VPN / 网络安全策略
+* Windows / macOS / Linux 服务器运维
+* Docker / Kubernetes / CI/CD 流水线
+
+**🛡 安全与优化**
+
+* 网络流量分析 / IDS / 防火墙规则配置
+* 系统安全加固 / 渗透测试基础
+* 高可用与容灾方案
+
+**🛠 开发工具**
+
+* JetBrains 全家桶 (IDEA, PyCharm, GoLand, PhpStorm)
+* Visual Studio / VS Code / Vim
+* Git / Maven / Gradle / Nginx
+
+---
+
+### 🏆 技术竞赛荣誉
+
+* **2025 年** — 职业院校技能大赛 **一等奖（金奖）**，展现卓越的系统架构与项目落地能力
+* **2024 年** — 全国职业技能大赛总决赛 **三等奖**，在高强度限时赛中交付高质量成果
+* **2024 年** — 职业院校技能大赛 **二等奖**，凭借创新的网络与后端优化方案脱颖而出
+* **2024 年** — 师生技能竞赛 **二等奖**，展现团队协作与全栈开发实力
+
+---
+
+> “计算，为了无法计算的时间。” — 叶兴楠
+>
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=计算，为了无法计算的时间。&author=叶兴楠"  />
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,docker,c,vim,md,go,idea,linux,maven,py,mysql,nginx,phpstorm,pycharm" />
+    <img src="https://skillicons.dev/icons?i=java,py,go,js,c,docker,kubernetes,linux,git,mysql,postgres,nginx,idea,phpstorm,pycharm,vim,github,postman,spring,visualstudio" />
   </a>
 </p>
+
+---
+
+### 💼 商务合作 / 联系方式
+
+欢迎联系我进行小型项目开发、技术咨询或合作探讨。
+📧 **Email**：**[yexiaonanair@outlook.com](mailto:yexiaonanair@outlook.com)**
+
