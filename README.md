@@ -59,8 +59,6 @@
 
 ---
 
-> “计算，为了无法计算的时间。” — 叶小男
->
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=计算，为了无法计算的时间。&author=叶小楠"  />
 
 ---
