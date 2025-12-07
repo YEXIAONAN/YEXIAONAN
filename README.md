@@ -44,11 +44,12 @@ Nginx · CI/CD
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yexiaonan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="150" src="https://github-readme-stats-evirunurm.vercel.app/api?username=yexiaonan&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yexiaonan&layout=compact&theme=transparent&hide_border=true" />
+<img height="150" src="https://github-readme-stats-evirunurm.vercel.app/api/top-langs/?username=yexiaonan&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
+
 
 ---
 
