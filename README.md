@@ -11,7 +11,7 @@
 偏好高可靠架构、极简代码和优雅工程实践。  
 </div>
 
----
+
 
 ## 🍎 Core Skills
 
@@ -38,20 +38,6 @@ Nginx · CI/CD
 
 </div>
 
----
-
-## 🧭 GitHub Overview
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats-evirunurm.vercel.app/api?username=yexiaonan&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats-evirunurm.vercel.app/api/top-langs/?username=yexiaonan&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-
----
 
 ## 🌤 Activity
 
@@ -59,7 +45,7 @@ Nginx · CI/CD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yexiaonan&theme=github-light&area=true&hide_border=true" />
 </div>
 
----
+
 
 ## 🏆 Awards
 
@@ -71,7 +57,7 @@ Nginx · CI/CD
 
 </div>
 
----
+
 
 ## ✉️ Contact
 
@@ -81,7 +67,7 @@ Nginx · CI/CD
 
 </div>
 
----
+
 
 ## ✨ Quote
 
