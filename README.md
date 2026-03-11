@@ -52,11 +52,21 @@ Nginx · CI/CD · Observability
 
 ## 🏆 Honors & Awards
 
-<div align="center" style="line-height:1.8;">
+<div align="center" style="line-height:1.9; font-size:16px;">
 
-🥇 <strong>2025 世界职业院校技能大赛 · 人工智能赛道 · 金奖</strong>
-🥇 <strong>2025 广西职业院校技能大赛 · 大数据应用与服务组 · 金奖</strong>
-🥉 <strong>2024 全国中等职业学校信息技术能力大赛 · 三等奖</strong>
+<strong>2026 广西职业院校技能大赛 · 新一代信息技术赛道 · 金奖</strong><br>
+
+<strong>2025 世界职业院校技能大赛 · 人工智能赛道 · 金奖</strong><br>
+
+<strong>2025 广西职业院校技能大赛 · 大数据应用与服务组 · 金奖</strong><br>
+
+<strong>2024 全国中等职业学校信息技术能力大赛 · 三等奖</strong><br>
+
+<strong>2024 广西职业院校技能大赛 · 大数据应用与服务组 · 二等奖</strong><br>
+
+<strong>2024 南宁市中等师生技能赛 · 大数据应用与服务组 · 二等奖</strong>
+
+</div>
 
 </div>
 
