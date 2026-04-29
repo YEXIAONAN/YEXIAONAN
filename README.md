@@ -3,7 +3,7 @@
 ### Full-stack Developer · Network Engineer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Hello%20World&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=你好%20世界&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
 </div>
 
 <div align="center" style="max-width:680px; font-size:15px; line-height:1.7;">
