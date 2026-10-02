@@ -42,13 +42,6 @@ Nginx · CI/CD · Observability
 
 ---
 
-## 🌤 Development Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yexiaonan&theme=github-light&area=true&hide_border=true" />
-</div>
-
----
 
 
 ## ✉️ Contact
