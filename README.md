@@ -1,13 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Waiting. — Ye Xiaonan | Full-stack Developer · Network Engineer" width="100%">
+  <img src="./assets/header-light.svg" alt="Waiting. — Full-stack Developer · Network Engineer" width="100%">
 </picture>
 
 <br>
 
 ### 热爱编程，专注项目落地。
 
-我是 **Ye Xiaonan / Waiting**，关注后端系统、网络工程与 AI 本地推理。<br>
+我是 **Waiting**，关注后端系统、网络工程与 AI 本地推理。<br>
 喜欢从具体问题出发，把想法做成可以使用的软件，让系统保持简单、可靠、易于维护。
 
 从需求到代码，从开发到部署，持续学习，持续构建。
