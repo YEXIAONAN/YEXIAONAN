@@ -1,54 +1,41 @@
-# 🧑‍💻 Ye Xiaonan
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Waiting. — Ye Xiaonan | Full-stack Developer · Network Engineer" width="100%">
+</picture>
 
-### Full-stack Developer · Network Engineer
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=你好%20世界&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
-</div>
+### 热爱编程，专注项目落地。
 
-<div align="center" style="max-width:680px; font-size:15px; line-height:1.7;">
-专注于<strong>后端系统设计</strong>、<strong>分布式架构</strong>、<strong>AI 本地推理部署</strong>与<strong>网络系统工程</strong>。<br/>
-追求高可靠、高可维护的工程体系，偏好极简抽象与可演进架构。
-</div>
+我是 **Ye Xiaonan / Waiting**，关注后端系统、网络工程与 AI 本地推理。<br>
+喜欢从具体问题出发，把想法做成可以使用的软件，让系统保持简单、可靠、易于维护。
 
----
+从需求到代码，从开发到部署，持续学习，持续构建。
 
-## 🍎 Core Competencies
+<br>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
+  <img src="./assets/focus-light.svg" alt="关注方向：后端与分布式系统、网络与部署、本地 AI 推理与应用" width="100%">
+</picture>
 
-<table style="width:88%; min-width:300px;">
-<tr>
-<td align="center" width="50%">
+<br>
 
-**Backend & Architecture**
-Java · Go · Python
-Spring Boot · Spring Cloud · Gin
-微服务 · 分布式系统 · 高并发
+### Stack / 技术栈
 
-</td>
-<td align="center" width="50%">
+**后端开发** · Java / Go / Python · Spring Boot / Spring Cloud / Gin<br>
+**系统与网络** · Linux / Docker / Kubernetes / Nginx<br>
+**工程实践** · CI/CD / Observability / 服务治理
 
-**Systems & Infrastructure**
-Linux · Docker · Kubernetes
-Nginx · CI/CD · Observability
-网络架构 · 服务治理
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,go,python,spring,linux,docker,kubernetes,nginx&amp;theme=dark&amp;perline=8">
+  <img src="https://skillicons.dev/icons?i=java,go,python,spring,linux,docker,kubernetes,nginx&amp;theme=light&amp;perline=8" alt="Java, Go, Python, Spring, Linux, Docker, Kubernetes, Nginx" width="360">
+</picture>
 
-</td>
-</tr>
-</table>
+<br>
 
-</div>
+### Elsewhere / 找到我
 
----
+[个人网站 ↗](https://www.yexiaonan.top/) · [Email ↗](mailto:yexiaonanair@outlook.com)
 
-
-
-## ✉️ Contact
-
-<div align="center">
-
-📧 **Email** · [yexiaonanair@outlook.com](mailto:yexiaonanair@outlook.com)
-
-</div>
-
+<sub>把想法写成代码，把细节做进体验。</sub>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-label="Waiting. Ye Xiaonan — Full-stack Developer / Network Engineer">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#202020}.muted{fill:#747474}.mono{font-family:monospace;letter-spacing:2px}.line{fill:none;stroke:#dedede;stroke-width:1.5}.ink{fill:none;stroke:#202020;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}</style><rect width="960" height="340" rx="16" fill="#fafafa"/>
+<text x="42" y="49" font-size="12" class="mono muted">DEVELOPER / BUILDER</text>
+<text x="42" y="157" font-size="87" font-weight="750" letter-spacing="-5">Waiting<tspan fill="#747474">.</tspan></text>
+<text x="45" y="201" font-size="19">Ye Xiaonan</text>
+<text x="45" y="232" font-size="14" class="muted">Full-stack Developer · Network Engineer</text>
+<path d="M44 275H916" class="line"/>
+<text x="45" y="309" font-size="11" class="mono muted">THINK CLEARLY. BUILD SIMPLY.</text>
+<text x="916" y="309" text-anchor="end" font-size="12" class="muted">yexiaonan.top ↗</text>
+<g transform="translate(684 62)">
+<path d="M24 45H182M24 153H182M51 18V180M156 18V180" class="line" stroke-dasharray="3 7"/>
+<path d="M102 38L177 80V161L102 204L27 161V80Z M27 80L102 123L177 80 M102 123V204" class="line"/>
+<path d="M102 0L177 42V123L102 166L27 123V42Z M27 42L102 85L177 42 M102 85V166" class="ink"/>
+<path d="M83 35L68 45L83 55 M120 35L135 45L120 55 M109 30L97 60" class="ink"/>
+<circle cx="27" cy="123" r="4" fill="#202020"/><circle cx="177" cy="123" r="4" fill="#202020"/><circle cx="102" cy="166" r="4" fill="#202020"/>
+</g></svg>
